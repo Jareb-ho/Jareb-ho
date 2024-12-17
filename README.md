@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me: 81822514 (no spam pls), Kat_iguess (discord)
 - 😄 Pronouns: do i need to fill this out?
-- ⚡ Fun fact: i hate being pinged past 10 pm (sg time)
+- ⚡ Fun fact: i hate being pinged past 10 pm (utc+ 8.00)
 
 <!---
 Jareb-ho/Jareb-ho is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
